@@ -1,0 +1,35 @@
+# x=(200000000000)
+# y=(1000000000)
+# z=(291111111111111)
+
+
+# if(x>y and x>z):
+#     print(x)
+# elif(y>x and y>z):
+#     print(y)
+# elif(z>x and z>y):
+#     print(z)
+# else:
+#     print("Invaild")
+
+
+# a="Hello"
+# count=0
+# while (count<5):
+#     count=count+1
+#     print
+
+
+# for i in range(0,1000,5):
+#     print(i)
+
+# a=int(input("Enter any number"))
+# for i in range(1,11):
+#     print(f"{a}X{i}={a*i}")
+
+
+x=input("Enter a letter:")
+if (x=="a"or x=="A", x=="e"or x=="E", x=="i"or x=="I",x=="o"or x=="O",x=="u"or x=="U"):
+    print("x is a vowel")
+else:
+    print("x is constant")
